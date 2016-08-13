@@ -1,4 +1,4 @@
-# my-project
+# vue router example
 ``` bash
 vue+vuerouter+webpack simple project
 ```
